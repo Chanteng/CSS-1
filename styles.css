@@ -1,0 +1,43 @@
+body {
+	background-image: url(logo1.jpg);
+	background-size: 50%;
+
+}
+
+#Name {
+	background-color: white;
+}
+
+.Activities {
+	font-size: 48px;
+	background-color: white;
+	color: blue;
+}
+
+div {
+	padding: 10px;
+	border: 5px solid blue;
+	border-radius: 50px
+
+}
+
+h5 {
+	background-color: white;
+	color: blue;
+	font-size: 30px;
+}
+
+ol , ul {
+	color: pink;
+	font-size: 30px;
+}
+
+p {
+	color: green;
+	font-size: 30px;
+
+}
+
+a {
+	color: black;
+}
